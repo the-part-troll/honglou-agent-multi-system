@@ -1,0 +1,18 @@
+# 密钥环境文件
+.env
+# 向量数据库持久化文件夹
+chroma_db/
+vector_db/
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# 日志、临时文件
+*.log
+tmp/
+# 虚拟环境
+venv/
+env/
+# Streamlit缓存
+.streamlit/
